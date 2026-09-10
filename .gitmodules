@@ -4,3 +4,6 @@
 [submodule "CodeAlpha_Task4"]
 	path = CodeAlpha_Task4
 	url = https://github.com/10urmh/CodeAlpha_ObjectDetectionTracking.git
+[submodule "CodeAlpha_Task3"]
+	path = CodeAlpha_Task3
+	url = https://github.com/10urmh/CodeAlpha_MusicGeneration.git
