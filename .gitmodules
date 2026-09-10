@@ -1,3 +1,3 @@
-[submodule "LanguageTranslator"]
-	path = LanguageTranslator
+[submodule "CodeAlpha_Task1"]
+	path = CodeAlpha_Task1
 	url = https://github.com/10urmh/CodeAlpha_LanguageTranslator.git
